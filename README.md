@@ -1,4 +1,4 @@
-# Data Visualization with Python Matplotlib
+# Data Visualization using Python Matplotlib
 
 
 [**reviews.csv**](reviews.csv) is a dataset with 45000 records and 4 features -  Course Name, Timestamp, Rating, Comment.
